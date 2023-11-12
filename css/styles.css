@@ -1,14 +1,14 @@
 /* styles.css */
 body {
-  font-family: Arial, sans-serif;
+  font-family: fantasy italic;
   display: flex;
   flex-direction: column;
   align-items: center;  
   color: rgb(255, 255, 255);
   font-size: 1.4rem;
-  background-color: rgb(43, 42, 42);
-  
-}
+  background-color: rgb(7, 7, 7);
+  text-align: 
+  }
 
 .genero-container {
   margin: 30px;
@@ -32,11 +32,11 @@ h1 {
 }
 
 h2 {
-  font-size: 3.0rem;
+  font-size: 3.2rem;
   margin-bottom: 10px;
   text-align: center;
-  color: rgb(88, 199, 199);
-  font-style:oblique;
+  color: rgb(182, 192, 192);
+  font-family: fantasy italic;
   
   
 }
@@ -49,6 +49,10 @@ h2 {
   padding: 20px;
 
 }
+
+
+
+
 
 
 
